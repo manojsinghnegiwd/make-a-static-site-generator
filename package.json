@@ -1,0 +1,13 @@
+{
+  "name": "make-a-static-site-generator",
+  "description": "An example of static site generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manoj Singh Negi",
+  "license": "MIT",
+  "devDependencies": {
+    "pug": "^2.0.0-beta6"
+  }
+}
